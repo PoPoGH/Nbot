@@ -2,9 +2,9 @@
   "token": "",
   "prefix": "!",
   "ownerIDS": [
-    "ownerIDS"
+    "185827598436139008"
   ],
-  "mongo": "MONGO_DB_URL",
+  "mongo": "mongodb://localhost/",
   "everyoneMention": false,
   "hostedBy": true,
   "customFilters": {
